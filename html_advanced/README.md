@@ -18,8 +18,11 @@
 **SOLVED**
 ```
 <!DOCTYPE html>
-<html lang="en">
+<html lang="EN" dir="ltr">
 
 </html>
 ```
-## 1. 
+## 1. Copy the content of `0-index.html` into `1-index.html`
+**Create the head and body sections**
+* inside the `html` tag, create the `head` and `body` tags (empty) in this order
+**W3C won’t pass - you can ignore it**
