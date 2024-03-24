@@ -5,15 +5,18 @@
     --color-light-grey: #f3f3f3;
     --color-dark-grey: #353535;
     --text-color: black;
-
 }
 
 .visually-hidden {
     display: none
 }
 
-.card-category, .section-tagline {
+.card-category {
     color: var(--color-primary);
+}
+
+.section-tagline {
+    color: var(--color-primary)
 }
 
 html {
@@ -25,5 +28,5 @@ body {
 }
 
 a {
-    color: #161616;
+    color: var(--text-color);
 }
