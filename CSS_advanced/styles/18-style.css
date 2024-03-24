@@ -47,7 +47,7 @@
     --nav-item-link-hover: var(--color-primary);
 }
 
-.nav-bar{float: right;}
+.navbar-menu{float: right;}
 
 .nav {
     margin: 0;
