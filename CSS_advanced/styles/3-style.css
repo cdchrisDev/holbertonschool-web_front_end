@@ -12,11 +12,7 @@
     display: none
 }
 
-.card-category {
-    color: color-primary;
-}
-
-.section-tagline {
+.card-category, .section-tagline {
     color: color-primary;
 }
 
